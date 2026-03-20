@@ -1,12 +1,12 @@
-# PR Build #17
+# PR Build #18
 
 | Câmp     | Valoare |
 |----------|---------|
 | PR       | #5 |
 | Branch   | pr/coach_add_new_user |
 | Data     | 20260320 |
-| Commit   | 37e38df829bb3a426827a0ac8503c25793a3e44d |
-| Fișier   | [fitevolution-pr-5-20260320-37e38df.apk](./fitevolution-pr-5-20260320-37e38df.apk) |
+| Commit   | 11f159a08ea543776d54ac8bb4fcc02267528ca2 |
+| Fișier   | [fitevolution-pr-5-20260320-11f159a.apk](./fitevolution-pr-5-20260320-11f159a.apk) |
 
 ## Instalare
 1. Descarcă 
